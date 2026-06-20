@@ -100,14 +100,23 @@ Includes the final project presentation summarizing objectives, methodology, das
 
 #  Key Business Areas Covered
 
-* Customer Analysis
-* Revenue Analysis
-* Geographic Analysis
-* Rental Analysis
-* Film Analysis
-* Actor Analysis
-* Inventory Analysis
-* Business Recommendations
+## Customer Analysis
+<img width="1315" height="732" alt="image" src="https://github.com/user-attachments/assets/57f1bf5f-18a0-4f0c-8c89-e7229df3a868" />
+
+## Revenue Analysis
+<img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/08460194-e12c-41d2-87ea-b952080bc7cb" />
+
+## Geographic Analysis
+<img width="1315" height="736" alt="image" src="https://github.com/user-attachments/assets/9f198924-2387-4933-bc77-302575ae1bc2" />
+
+## Rental Analysis
+<img width="1310" height="722" alt="image" src="https://github.com/user-attachments/assets/ae3920e6-a6f2-4c46-ba2e-0ac8f4ed8349" />
+
+## Film Analysis
+<img width="1307" height="726" alt="image" src="https://github.com/user-attachments/assets/462feb30-bc58-4eee-a64c-6c4a4ec9108e" />
+
+## Actor Analysis
+<img width="1307" height="720" alt="image" src="https://github.com/user-attachments/assets/0484ba0b-c992-48e9-b6d0-1e837028afa9" />
 
 ---
 
